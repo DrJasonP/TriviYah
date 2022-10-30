@@ -1,0 +1,112 @@
+
+@font-face {
+	font-family: Teko;
+	src: url(../Fonts/Teko/Teko-Regular.ttf);
+}
+
+@font-face {	
+	font-family: TekoSemiBold;
+	src: url(../Fonts/Teko/Teko-SemiBold.ttf);
+}
+
+@font-face {	
+	font-family: TekoBold;
+	src: url(../Fonts/Teko/Teko-Bold.ttf);
+}
+
+body {
+	background-color: #0094FF;
+}
+
+heading {
+
+}
+
+.center {
+	text-align: center;
+		width: 20%;
+	margin: auto;
+	margin-top: 2%;
+}
+
+.mnav {
+	display: inline;
+	margin: auto;
+	width: 30%;
+	text-color: grey;
+}
+
+
+.navi {
+	display: inline-flex;
+	font-family: Teko;
+	font-size: 1.5em;
+	letter-spacing: .15rem;
+}
+
+li {
+	margin-top: 3%;
+	color: white;
+}
+
+.Leaderb {
+
+}
+
+.usern {
+	display: block;
+	width: 25%;
+	border: 5px solid white;
+	background-color: white;
+	border-radius: 15px;
+	box-shadow: 0 0 5px black;
+	margin: auto;
+	margin-top: 15%;
+   box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.25);
+	margin-right: auto;
+	}
+
+.userinput, .passinput {
+	display: block;
+	box-sizing: border-box;
+	width:100%;
+	padding: 1.2rem;
+    border-radius: 25px;
+	border-style: solid;
+	background-color: #ECECEC;
+	border-color: white;
+	height: 30px;
+	margin-bottom: 9px;
+	
+}
+
+.userinput {
+	margin-top: -4%;
+}
+
+.lgbutton {
+	display: block;
+	width: 100%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-family: Trebuchet MS;
+	font-size: 1em;
+	margin-bottom: 3%;
+	border-radius: 20px;
+	border-style: solid;
+	background-color: #3A3B3C;
+	border-color: white;
+	color: white;
+}
+
+.login {
+	font-family: TekoSemiBold;
+	font-size: 1.7em;
+	color: #3A3B3C;
+	margin-left: 4%;
+	margin-top: 3%;
+	letter-spacing: .08rem;
+}
+
+
+
