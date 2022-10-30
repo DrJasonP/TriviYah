@@ -6,12 +6,12 @@
 
 @font-face {	
 	font-family: TekoSemiBold;
-	src: url(Fonts/Teko/Teko-SemiBold.ttf);
+	src: url(Teko-SemiBold.ttf);
 }
 
 @font-face {	
 	font-family: TekoBold;
-	src: url(Fonts/Teko/Teko-Bold.ttf);
+	src: url(Teko-Bold.ttf);
 }
 
 body {
