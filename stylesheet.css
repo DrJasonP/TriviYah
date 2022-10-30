@@ -1,17 +1,17 @@
 
 @font-face {
 	font-family: Teko;
-	src: url(../Fonts/Teko/Teko-Regular.ttf);
+	src: url(Teko-Regular.ttf);
 }
 
 @font-face {	
 	font-family: TekoSemiBold;
-	src: url(../Fonts/Teko/Teko-SemiBold.ttf);
+	src: url(Fonts/Teko/Teko-SemiBold.ttf);
 }
 
 @font-face {	
 	font-family: TekoBold;
-	src: url(../Fonts/Teko/Teko-Bold.ttf);
+	src: url(Fonts/Teko/Teko-Bold.ttf);
 }
 
 body {
